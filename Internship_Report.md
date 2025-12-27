@@ -5,8 +5,8 @@
 ---
 
 **Intern Name**: Mayur Patil  
-**Internship Duration**: [Add Duration]  
-**Date**: [Add Date]
+**Internship Duration**: 6-Months  
+**Date**: 27-06-2025
 
 ---
 
@@ -202,4 +202,5 @@ I would like to thank NullClass for providing this internship opportunity and th
 ---
 
 *This report is part of the NullClass Text-to-Image Generation Internship program.*
+
 
