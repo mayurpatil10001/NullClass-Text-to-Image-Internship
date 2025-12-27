@@ -6,7 +6,7 @@ This repository contains all tasks completed during the Text-to-Image Generation
 
 ## Internship Duration
 
-[Add your internship duration here, e.g., "December 2024 - January 2025"]
+27-06-2025 to 27-12-2025
 
 ## Task List
 
@@ -227,4 +227,5 @@ For ML/GAN tasks (Tasks 7, 9, 10):
 ---
 
 **Note**: This repository is part of the NullClass Text-to-Image Generation Internship program. All tasks have been completed as per the internship requirements.
+
 
