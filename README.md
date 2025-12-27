@@ -210,12 +210,8 @@ For ML/GAN tasks (Tasks 7, 9, 10):
 ## Contact
 
 **Name**: Mayur Patil  
-**Email**: [Your Email]  
-**GitHub**: [Your GitHub Profile]
-
-## License
-
-[Add your license information if applicable]
+**Email**: mayurpatil20050518@gmail.com  
+**GitHub**: https://github.com/mayurpatil10001
 
 ## Acknowledgments
 
@@ -227,5 +223,6 @@ For ML/GAN tasks (Tasks 7, 9, 10):
 ---
 
 **Note**: This repository is part of the NullClass Text-to-Image Generation Internship program. All tasks have been completed as per the internship requirements.
+
 
 
